@@ -8,7 +8,7 @@ public class Hospital_dataList {
         list.add(new Hospital(4, "Mahesh", "Rohan", "Endocrinology:", 1005, 400));
         list.add(new Hospital(3, "Rahul", "Parag", "Gastroenterology:", 1008, 8000));
         list.add(new Hospital(7, "MahedraSingh", "Virat", "Oncology:", 1003, 700));
-        list.add(new Hospital(2, "Dhoni", "Gambhir", "EkChackaNeWorldcup:", 10101, 1100));
+        list.add(new Hospital(2, "Dhoni", "Gambhir", "surgen:", 10101, 1100));
 
         // Decending Order Sorting
 
